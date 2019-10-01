@@ -1,0 +1,6 @@
+YourUniTourAR came to life in order to make the path (literally) in the university more interesting and easier.
+Features:
+- choose your destination
+- arrows appear to guide you to the selected office/lab/course room
+- if the user chooses, a clock appears
+- bonus: some fun obects may appear 
